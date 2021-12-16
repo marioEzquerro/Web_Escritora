@@ -1,7 +1,6 @@
 # Escritora Web
 Pagina web dedicada a Elena Garro, proyecto HTML, CSS y JS.
-
-Programa creado para el dia del libro curso 2020-2021
+Programa creado para el dia del libro curso 2020-2021.
 
 
 VERSION 2.0.1
